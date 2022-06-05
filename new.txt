@@ -1,0 +1,11 @@
+Name: 
+First Name: Alexander
+Last Name: Mkhaylov
+
+Age: 30
+
+Pets:	
+Cats: 0
+Dogs: 0
+
+Desired Salary: 1000$
